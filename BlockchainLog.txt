@@ -1,0 +1,5 @@
+Process 0 is listening at Port: 4710 for public keys
+Process 0 is received public key from process 0
+Keypair is generated and sent to all pairs
+Process 0 is listening at Port: 4820 for unverified blocks
+Process 0 is listening at Port: 4930 for new blockchains
